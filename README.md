@@ -117,7 +117,7 @@ churn-prediction/
 ├── churn_prediction.ipynb           
 ├── README.md                               
 └── requirements.txt                         
-
+```
 
 ### 🧩 Future Improvements
 

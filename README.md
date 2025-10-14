@@ -111,10 +111,10 @@ jupyter notebook churn_prediction.ipynb
 
 ### 📦 Files in Repository
 churn-prediction/
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv
-├── churn_prediction.ipynb
-├── README.md
-└── requirements.txt
+├── WA_Fn-UseC_-Telco-Customer-Churn.csv     # Dataset used for training and analysis
+├── churn_prediction.ipynb                   # Main Jupyter Notebook with EDA and modeling
+├── README.md                                # Project documentation
+└── requirements.txt                         # Python dependencies
 
 ### 🧩 Future Improvements
 
